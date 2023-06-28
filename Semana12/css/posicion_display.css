@@ -1,0 +1,36 @@
+section.contenedor{
+    width:800px;
+    height: 700px;
+    background-color: gainsboro;
+    margin: 0 auto;
+
+}
+.caja_amarillo{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+.caja_amarillo:hover{
+    background-color: rgb(226, 43, 107);
+     border-radius: 30%;
+}
+
+.caja_rojo{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.caja_rojo:hover{
+    background-color: azure;
+    border-radius: 40%;
+}
+.caja_verde{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    
+}
+.caja_verde:hover{
+    background-color: rgb(44, 48, 87);
+    border-radius: 50%;
+}
